@@ -1,0 +1,16 @@
+{
+    "unformatted": ["a", "abbr", "area", "audio", "b", "bdi", "bdo", "br", "button", "canvas", "cite", "code", "data", "datalist", "del", "dfn", "em", "embed", "i", "iframe", "img", "input", "ins", "kbd", "keygen", "label", "map", "mark", "math", "meter", "noscript", "object", "output", "progress", "q", "ruby", "s", "samp", "select", "small", "span", "strong", "sub", "sup", "svg", "textarea", "time", "u", "var", "video", "wbr", "text", "acronym", "address", "big", "dt", "ins", "small", "strike", "tt", "pre", "h1", "h2", "h3", "h4", "h5", "h6"],
+    "indent_scripts": "keep",
+    "wrap_attributes": "force-aligned",
+    "preserve_ternary_lines": true,
+    "operator_position": "after-newline",
+    "space_after_anon_function": false,
+    "end_with_newline": true,
+    "space_in_empty_paren": false,
+    "css": {
+        "allowed_file_extensions": ["css", "scss", "sass", "less"],
+        "selector_separator_newline": false,
+        "preserve_newlines": true,
+        "fileTypes": [".scss", ".sass", ".less"]
+    }
+}

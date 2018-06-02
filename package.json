@@ -1,0 +1,25 @@
+{
+    "name": "tiki",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "e": "nodemon src/each.js --exec babel-node",
+        "a": "nodemon src/list.js --exec babel-node"
+    },
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "cheerio": "^1.0.0-rc.2",
+        "log": "phamhongphuc/log",
+        "request": "^2.87.0"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.3",
+        "babel-minify": "^0.4.3",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-stage-2": "^6.24.1",
+        "nodemon": "^1.17.5",
+        "turndown": "^4.0.2"
+    }
+}
