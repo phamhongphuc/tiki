@@ -11,7 +11,7 @@
         "chalk": "^2.4.1",
         "cheerio": "^1.0.0-rc.2",
         "log": "phamhongphuc/log",
-        "request": "^2.87.0"
+        "request": "^2.88.0"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
