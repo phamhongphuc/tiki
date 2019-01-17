@@ -19,7 +19,7 @@
         "babel-minify": "^0.4.3",
         "babel-preset-es2015": "^6.24.1",
         "babel-preset-stage-2": "^6.24.1",
-        "nodemon": "^1.17.5",
+        "nodemon": "^1.18.9",
         "turndown": "^4.0.2"
     }
 }
